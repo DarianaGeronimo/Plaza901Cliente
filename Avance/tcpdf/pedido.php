@@ -147,7 +147,7 @@ tr:hover td {
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" class="center">precio Producto:</td>
+<td colspan="3" class="center">Precio Producto:</td>
 </tr>
 <tr>
 <td colspan="3" class="subheader">Detalle pedido</td>
